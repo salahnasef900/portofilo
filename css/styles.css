@@ -1,0 +1,79 @@
+body{margin: 0;
+text-align: center ;font-family: 'Merriweather', serif; color: #40514E;
+}
+h1{color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 2px auto;
+  font-family: 'Sacramento', cursive;
+   font-weight: normal;
+
+}
+h2 {color: #66BFBF;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{  width: 5%;border-style:   dotted none none none;color: grey;}
+.top-container{background-color: #e4f9f5;
+position: relative;
+ padding-top: 100px;}
+p{line-height: 2;}
+.det-me{width: 30%;margin: auto;}
+.contact-mes{width: 30%;margin: auto;}
+  .middle-container {margin: 50px 0}
+  .bottom-container  { padding-top: 60px;background-color: #66BFBF}
+     .profile{width: 50%;margin: 0 auto 0 auto;text-align:center; }
+    .skill-row{
+      width: 50%;
+       margin: 100px auto 100px auto;text-align: left;line-height: 2}
+       .skill-row2{width: 50%;margin: 100px auto 100px auto;text-align: right; line-height: 2}
+  .top-cloud {position: absolute;
+  right: 300px;
+  top :50px}
+  .bottom-cloud {position: absolute;
+  left: 300px;}
+  .salaa {
+    width: 20%;
+    border-radius: 50%}
+a{color:  #11999E;margin: 10px 20px;
+ text-decoration: none;}
+a:hover{color: #EAF6F6;}
+.ht-im{width: 25%;float: left;margin: 30px}
+.orang-img{width: 25% ;float: right;margin: 30px}
+.btn {
+   background: #66BFBF;
+   background-image: #66BFBF;
+
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 14px 0 2px #66BFBF;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 20px;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #9ad3bc;
+
+   background-image: #9ad3bc);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.copy-right{color:#EAF6F6; font-size: 0.752rem;padding-top: 20px}
